@@ -20,4 +20,9 @@
 //const int RANGE_FINDER_PORT = 1;
 //const int RANGE_FINDER_MODULE = 1;
 
+class RobotMap {
+public:
+	void init();
+};
+
 #endif
